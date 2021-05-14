@@ -19,7 +19,8 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume:
+    'https://www.linkedin.com/in/1guillermohernandez/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAA6RGr4B2FUn9VTcOb_zms6kgy4hoeG9SY4,1635455634937)/', 
 };
 
 // PROJECTS DATA
