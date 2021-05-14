@@ -20,7 +20,7 @@ export const aboutData = {
   paragraphTwo: '',
   paragraphThree: '',
   resume:
-    'https://www.linkedin.com/in/1guillermohernandez/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAA6RGr4B2FUn9VTcOb_zms6kgy4hoeG9SY4,1635455634937)/', 
+    'https://www.linkedin.com/in/1guillermohernandez/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAA6RGr4B2FUn9VTcOb_zms6kgy4hoeG9SY4,1635455634937)/',
 };
 
 // PROJECTS DATA
@@ -39,7 +39,7 @@ export const projectsData = [
     img: 'hound.png',
     title: 'Hound - CRM',
     info: 'Hound is a CRM system in which businesses and orgnanization keep in touch with their clients and any potentitial prospects. This tool is used to automate workflows for sales and marketing professionals.',
-    info2: '',
+    info2: 'Stacks used: ',
     url: 'https://pacific-atoll-09906.herokuapp.com/',
     repo: 'https://github.com/Los-Borrachos/frontend',
   },
@@ -48,7 +48,7 @@ export const projectsData = [
     img: 'muddlr.png',
     title: "Muddl'r - Cocktail App",
     info: "Muddl'r is a modern front end application utilizing React and a third party API-CocktailDB. The app is compiled of several different components for functionality and progressive use.",
-    info2: '',
+    info2: 'Stacks used: ',
     url: 'https://project-muddler.herokuapp.com/',
     repo: 'https://github.com/ghernandez24/project-muddlr',
   },
