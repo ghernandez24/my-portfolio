@@ -20,7 +20,7 @@ export const aboutData = {
   paragraphTwo: '',
   paragraphThree: '',
   resume:
-    'https://www.linkedin.com/in/1guillermohernandez/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAA6RGr4B2FUn9VTcOb_zms6kgy4hoeG9SY4,1635455634937)/',
+    'https://docs.google.com/document/d/14g1aByFc-hpLXjQiSYQmNiuVZ0fY7MoUx12tfm1ZcjQ/edit?usp=sharing',
 };
 
 // PROJECTS DATA
@@ -58,7 +58,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: 'Guillermo.hern@gmail.com',
+  email: 'Guillermo.hern024@gmail.com',
 };
 
 // FOOTER DATA
