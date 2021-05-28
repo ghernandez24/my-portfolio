@@ -40,7 +40,7 @@ const About = () => {
                 <p className="about-wrapper__info-text">{paragraphOne || 'Hello World! 🌎'}</p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'Guillermo here! I am an experienced coding bootcamp graduate with extensive background in various coding languages, developing mobile applications, and building websites from the ground up. Specialized in JavaScript and Python. Accomplished Business Development Executive working with fortune 500 tech and startup company managing portfolios of hardware and software solutions. I am seeking to join a team that I can collaborate with and exceed expectations.'}
+                    'Guillermo here! Quick-learner and coding bootcamp graduate with extensive background in various coding languages, developing mobile applications, and building websites from the ground up. Specialized in JavaScript and Python. Accomplished Business Development Executive working with fortune 500 tech and startup company managing portfolios of hardware and software solutions. I am seeking to join a team that I can collaborate with and exceed expectations.'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
